@@ -1,6 +1,6 @@
 {
-  "homepage": "http://CWC001-lab.github.io/Crypto-Prototype",
-  "name": "crypto-jan",
+  "homepage": "http://CWC001-lab.github.io/crypto-001",
+  "name": "crypto-001",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

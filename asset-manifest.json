@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crypto-001/static/css/main.f9a90b0a.css",
+    "main.js": "/crypto-001/static/js/main.c1423842.js",
+    "static/media/iphone.png": "/crypto-001/static/media/iphone.080029ada53f0cd57453.png",
+    "static/media/gradient.png": "/crypto-001/static/media/gradient.12a666ed10b3b442b534.png",
+    "index.html": "/crypto-001/index.html",
+    "main.f9a90b0a.css.map": "/crypto-001/static/css/main.f9a90b0a.css.map",
+    "main.c1423842.js.map": "/crypto-001/static/js/main.c1423842.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9a90b0a.css",
+    "static/js/main.c1423842.js"
+  ]
+}
